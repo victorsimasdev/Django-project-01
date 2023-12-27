@@ -5,11 +5,11 @@
 </br>
 <h4 align="center">How to start the project</h4>
 
-  * git clone https://github.com/victorsimasdev/Django-project-01
-    * Create a superuser to access admin panel using:
+  * Fork the repository
+  * Create a superuser to access admin panel using:
       * python manage.py createsuperuser
   * Access the admin panel adding /admin at the end of url url
-  * Enjoy!
+    
 <p align="center">Homepage</p>
 
 ![homepage](https://github.com/victorsimasdev/Django-project-01/assets/105087475/fa026de3-37ae-492c-a780-a801c73c3aa3)
