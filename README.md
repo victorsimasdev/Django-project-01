@@ -3,12 +3,6 @@
 </h1>
 <p align="center">🚀 Project to deepen knowledge on django and web developement</p>
 </br>
-<h4 align="center">How to start the project</h4>
-
-  * Fork the repository
-  * Create a superuser to access admin panel using:
-      * python manage.py createsuperuser
-  * Access the admin panel adding /admin at the end of url url
     
 <p align="center">Homepage</p>
 
